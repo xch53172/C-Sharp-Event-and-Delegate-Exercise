@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C Sharp Event and Delegate Exercise", "C Sharp Event and Delegate Exercise\C Sharp Event and Delegate Exercise.csproj", "{362F1D15-1B87-40DA-BB85-F5F5B17A518A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{362F1D15-1B87-40DA-BB85-F5F5B17A518A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362F1D15-1B87-40DA-BB85-F5F5B17A518A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362F1D15-1B87-40DA-BB85-F5F5B17A518A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362F1D15-1B87-40DA-BB85-F5F5B17A518A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D083E94-8150-4FE7-A5DE-83F516344C80}
+	EndGlobalSection
+EndGlobal
